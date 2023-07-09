@@ -1,4 +1,9 @@
 # Overview:
+
+### Author: Kyle Brandt (knb47)
+
+### Technologies implemented: LangChain, Google Cloud - Gmail API + Oauth, Pinecone, OpenAI API - Embeddings + ChatGPT, and Streamlit
+
 Have you ever vaguely remembered an email you wanted to retrieve from your inbox but just can't find it?<br> 
 Perhaps it was a long time ago, and you don't remember who it was from or what exactly it was about.<br>
 Maybe you try typing in keywords and dates in the search bar, but you get dozens of search results instead of just one.<br>
@@ -15,8 +20,6 @@ Upon execution of a search, Pinecone DB will return multiple documents that clos
 
 LangChain allows us to "chain" different application components together, such as Pinecone and OpenAI, in a sequential manner.<br>
 What's also useful about LangChain is that it allows us to parse emails into smaller chunks of data to efficiently store them in the database.<br>
-
-Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
 
 ### Starting interface:
 
@@ -78,3 +81,7 @@ Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
   the email that best matches your query and provide any relevant information about that email.<br>
   Remember, you don't need to search for exact strings! Descriptions and details work also, making<br>
   this a powerful application.
+
+
+## Acknowledgement and inspiration:
+# Greg Kamradt: https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=563s
