@@ -21,11 +21,11 @@ Upon execution of a search, Pinecone DB will return multiple documents that clos
 LangChain allows us to "chain" different application components together, such as Pinecone and OpenAI, in a sequential manner.
 What's also useful about LangChain is that it allows us to parse emails into smaller chunks of data to efficiently store them in the database.
 
-### Starting interface:
+**Starting interface:**
 
 ![Example of app running](./demo/Starting_Interface.png)
 
-### Example of semantic search (using meaning rather than matching words to search):
+**Example of semantic search (using meaning rather than matching words to search):**
 
 ![Example of semantically searching](./demo/Query_Example.png)
 
@@ -41,11 +41,11 @@ What's also useful about LangChain is that it allows us to parse emails into sma
 
   For this, you must create a Pinecone DB instance. 
   
-  ### How to create a Pinecone instance (Dimensions MUST be 1536 / Metric MUST be Cosine):
+**How to create a Pinecone instance (Dimensions MUST be 1536 / Metric MUST be Cosine):**
 
 ![Pinecone Instance example](./demo/Pinecone_Instance.png)
 
-### Grab the PINECONE_API_ENV from "Environment" as seen below:
+**Grab the PINECONE_API_ENV from "Environment" as seen below:**
 
 ![Pinecone Env example](./demo/Pinecone_Env.png)
 
@@ -83,5 +83,7 @@ What's also useful about LangChain is that it allows us to parse emails into sma
   this a powerful application.
 
 
-## Acknowledgement and inspiration:
-# Greg Kamradt: https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=563s
+**Acknowledgement and inspiration:**<br>
+*Greg Kamradt*<br>
+*LangChain101: Question A 300 Page Book (w/ OpenAI + Pinecone)*<br>
+*https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=563s*<br>
