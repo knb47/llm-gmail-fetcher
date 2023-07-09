@@ -82,6 +82,8 @@ What's also useful about LangChain is that it allows us to parse emails into sma
   Remember, you don't need to search for exact strings! Descriptions and details work also, making
   this a powerful application.
 
+Enjoy!
+
 <br>
 <br>
 <br>
