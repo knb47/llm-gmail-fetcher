@@ -36,12 +36,13 @@ Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
   PINECONE_API_ENV = *key*<br>
   PINECONE_INSTANCE_NAME = *instance name*
 
-  For this, you must create a Pinecone DB instance.<br>
-  The instance should be created as shown below (dimensions MUST be 1536):
+  For this, you must create a Pinecone DB instance. 
+  
+  ### How to create a Pinecone instance shown below (Dimensions MUST be 1536 / Metric MUST be Cosine):
 
 ![Pinecone Instance example](./demo/Pinecone_Instance.png)
 
-Grab the PINECONE_API_ENV from "Environment" as seen below:
+### Grab the PINECONE_API_ENV from "Environment" as seen below:
 
 ![Pinecone Env example](./demo/Pinecone_Env.png)
 
