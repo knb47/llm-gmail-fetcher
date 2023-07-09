@@ -5,21 +5,19 @@
 **Technologies used: LangChain, Gmail API + Oauth, Pinecone, OpenAI Embeddings + ChatGPT, Streamlit**
 
 Have you ever vaguely remembered an email you wanted to retrieve from your inbox but just can't find it?
-Perhaps it was a long time ago, and you don't remember who it was from or what exactly it was about.
-Maybe you try typing in keywords and dates in the search bar, but you get dozens of search results instead of just one.
+And even after searching for it, you find yourself manually sifting through dozens of search results with no success?
 
-This application can retrieve your emails instantaneously by using vague details or descriptions.
-In essence, you no longer need to search for emails using a matching string or a specific date.
-You only need to vaguely describe the email you're thinking about, and this application will find the email you are closely describing.
+This application can retrieve your emails with only vague details or descriptions.
+In essence, you no longer need to search for emails using a matching word or a specific date.
 
-When the email is found, this application will return the exact email subject and date of the email you're looking for,
- along with some information about the email.
+When the application finds the email, it will return the exact email subject and date of the email you're looking for,
+along with some information about the email.
 
 How does this work? This tool stores all of your Gmail emails in Pinecone, a vector database, with the assistance of LangChain + OpenAI embeddings.
 Upon execution of a search, Pinecone DB will return multiple documents that closely match the email you're looking for using semantic search.
 
 LangChain allows us to "chain" different application components together, such as Pinecone and OpenAI, in a sequential manner.
-What's also useful about LangChain is that it allows us to parse emails into smaller chunks of data to efficiently store them in the database.
+What's also beneficial about LangChain is that it allows us to parse emails into smaller chunks of data to store them in the database efficiently.
 
 **Starting interface:**
 
