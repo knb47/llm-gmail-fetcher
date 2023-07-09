@@ -1,6 +1,8 @@
 # Overview:
 
-**Author: Kyle Brandt**
+**Author:**<br>
+*Kyle Brandt*
+*GitHub: knb47*
 
 **Technologies used: LangChain, Gmail API + Oauth, Pinecone, OpenAI Embeddings + ChatGPT, Streamlit**
 
@@ -85,9 +87,8 @@ Enjoy!
 <br>
 <br>
 <br>
-<br>
 
-**Acknowledgement and inspiration:**<br>
+**Inspiration:**<br>
 *Greg Kamradt*<br>
 *LangChain101: Question A 300 Page Book (w/ OpenAI + Pinecone)*<br>
 *https://www.youtube.com/watch?v=h0DHDp1FbmQ&t=563s*<br>
