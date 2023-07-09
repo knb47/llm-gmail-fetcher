@@ -38,7 +38,7 @@ Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
 
   For this, you must create a Pinecone DB instance. 
   
-  ### How to create a Pinecone instance shown below (Dimensions MUST be 1536 / Metric MUST be Cosine):
+  ### How to create a Pinecone instance (Dimensions MUST be 1536 / Metric MUST be Cosine):
 
 ![Pinecone Instance example](./demo/Pinecone_Instance.png)
 
