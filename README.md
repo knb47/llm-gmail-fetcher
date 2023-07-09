@@ -35,13 +35,13 @@ What's also beneficial about LangChain is that it allows us to parse emails into
 
 2. Add the following credentials to a .env file as environment variables:
 
-  GOOGLE_APPLICATION_CREDENTIALS = *your Google developer account key*<br>
-  OPENAI_API_KEY = *key*<br>
-  PINECONE_API_KEY = *key*<br>
-  PINECONE_API_ENV = *key*<br>
-  PINECONE_INSTANCE_NAME = *instance name*
+  >GOOGLE_APPLICATION_CREDENTIALS = *your Google developer account key*<br>
+  >OPENAI_API_KEY = *key*<br>
+  >PINECONE_API_KEY = *key*<br>
+  >PINECONE_API_ENV = *key*<br>
+  >PINECONE_INSTANCE_NAME = *instance name*
 
-  For this, you must create a Pinecone DB instance. 
+  >For this, you must create a Pinecone DB instance. 
   
 **How to create a Pinecone instance (Dimensions MUST be 1536 / Metric MUST be Cosine):**
 
