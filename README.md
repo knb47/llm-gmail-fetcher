@@ -18,11 +18,11 @@ What's also useful about LangChain is that it allows us to parse emails into sma
 
 Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
 
-Start screen:
+### Starting Interface:
 
 ![Example of app running](./demo/Starting_Interface.png)
 
-Example of semantic search (using meaning rather than matching words to search):
+### Example of semantic search (using meaning rather than matching words to search):
 
 ![Example of semantically searching](./demo/Query_Example.png)
 
