@@ -1,8 +1,8 @@
 # Overview:
 
-### Author: Kyle Brandt (knb47)
+**Author: Kyle Brandt**
 
-### Technologies implemented: LangChain, Google Cloud - Gmail API + Oauth, Pinecone, OpenAI API - Embeddings + ChatGPT, and Streamlit
+**Technologies implemented: LangChain, Google Cloud - Gmail API + Oauth, Pinecone, OpenAI API - Embeddings + ChatGPT, and Streamlit**
 
 Have you ever vaguely remembered an email you wanted to retrieve from your inbox but just can't find it?<br> 
 Perhaps it was a long time ago, and you don't remember who it was from or what exactly it was about.<br>
