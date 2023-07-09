@@ -6,6 +6,7 @@
 
 **Technologies used:**<br>
 *LangChain, Gmail API + Oauth, Pinecone, OpenAI Embeddings + ChatGPT, Streamlit*
+---
 
 Have you ever vaguely remembered an email you wanted to retrieve from your inbox but just can't find it?
 And even after searching for it, you find yourself manually sifting through dozens of search results with no success?
