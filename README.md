@@ -5,7 +5,7 @@
 *GitHub: knb47*
 
 **Technologies used:**<br>
-*LangChain, Gmail API + Oauth, Pinecone, OpenAI Embeddings + ChatGPT, Streamlit*
+*LangChain, Gmail API + Oauth, Pinecone, OpenAI Embeddings + ChatGPT, Streamlit*<br>
 ---
 
 Have you ever vaguely remembered an email you wanted to retrieve from your inbox but just can't find it?
