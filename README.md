@@ -33,7 +33,7 @@ What's also beneficial about LangChain is that it allows us to parse emails into
 # Getting started:
 1. Create a Google developer account, Pinecone account, and OpenAI account.
 
-2. Provide the following credentials as environment variables<br>
+2. Add the following credentials to a .env file as environment variables<br>
   GOOGLE_APPLICATION_CREDENTIALS = *your Google developer account key*<br>
   OPENAI_API_KEY = *key*<br>
   PINECONE_API_KEY = *key*<br>
