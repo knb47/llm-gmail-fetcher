@@ -18,7 +18,7 @@ What's also useful about LangChain is that it allows us to parse emails into sma
 
 Technologies: Gmail API/Oauth, Pinecone, OpenAI API, Langchain, and Streamlit
 
-### Starting Interface:
+### Starting interface:
 
 ![Example of app running](./demo/Starting_Interface.png)
 
