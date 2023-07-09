@@ -41,7 +41,7 @@ What's also beneficial about LangChain is that it allows us to parse emails into
   >PINECONE_API_ENV = *key*<br>
   >PINECONE_INSTANCE_NAME = *instance name*
 
-  >For this, you must create a Pinecone DB instance. 
+  For this, you must create a Pinecone DB instance. 
   
 **How to create a Pinecone instance (Dimensions MUST be 1536 / Metric MUST be Cosine):**
 
